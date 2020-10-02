@@ -1,0 +1,26 @@
+h1{
+    background-color: #FECFFD;
+    color: #FF3399;
+    font-size : 30px;
+    text-align: center;
+}
+.all{
+    background-color: #FFFFCC;
+    font-style: italic;
+}
+.para1{
+    text-align: center;
+    color: #0000FF;
+}
+.para2{
+    text-align: center;
+    color:red;
+}
+.para3{
+    text-align: center;
+    color: #006600;
+}
+.line{
+    margin-top:-1em;
+    width: 300px;
+}
